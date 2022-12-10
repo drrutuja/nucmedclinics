@@ -49,4 +49,4 @@ Bone scan is exquisitely sensitive to detect Stress fracture.
 
 
 
-
+Follow me on Twitter [@KoteRutuja](https://twitter.com/KoteRutuja) for more updates and resources.
