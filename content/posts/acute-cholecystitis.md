@@ -4,7 +4,7 @@ title = "Acute Cholecystitis on Cholescintigraphy "
 date = "2022-12-05"
 description = "Brief about Acute Cholecystitis on Cholescintigraphy"
 tags = [
-    "nuclear medicine",
+    "Hepatobiliary System",
 ]
 +++
 

@@ -4,7 +4,7 @@ title = "Stress Fracture "
 date = "2022-12-10"
 description = "Stress Fracture"
 tags = [
-    "nuclear medicine",
+    "Musculoskeletal System",
 ]
 +++
 
