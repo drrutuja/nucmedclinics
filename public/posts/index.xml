@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Nuc Med Clinics</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on Nuc Med Clinics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 05 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Acute Cholecystitis on Cholescintigraphy </title>
+      <link>http://localhost:1313/posts/acute-cholecystitis/</link>
+      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/acute-cholecystitis/</guid>
+      <description>The most frequent indication for cholescintigraphy is to confirm or exclude the diagnosis of acute cholecystitis.  Patients present with colicky right upper quadrant abdominal pain, nausea, and vomiting.  Physical examination often detects right upper quadrant tenderness. Laboratory studies show leukocytosis. Series of sequential histopathological inflammatory changes occurs—first, venous and lymphatic obstruction, followed by edema of the gallbladder mucosa, then white blood cell infiltration, and, ultimately, hemorrhage, ulceration, necrosis, and if left untreated, gangrene, abscess, and perforation.</description>
+    </item>
+    
+  </channel>
+</rss>
