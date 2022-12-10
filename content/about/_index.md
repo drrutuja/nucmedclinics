@@ -1,9 +1,9 @@
 +++
 title = "About"
-description = "Hugo, the world's fastest framework for building websites"
+description = "Everything Nuclear Medicine"
 date = "2019-02-28"
 aliases = ["about-us", "about-hugo", "contact"]
-author = "Hugo Authors"
+author = "Dr. Rutuja Kote"
 +++
 
 
