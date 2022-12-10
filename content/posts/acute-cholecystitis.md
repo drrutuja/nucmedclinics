@@ -1,7 +1,7 @@
 +++
 author = "Dr. Rutuja Kote"
 title = "Acute Cholecystitis on Cholescintigraphy "
-date = "2019-03-05"
+date = "2022-12-05"
 description = "Brief about Acute Cholecystitis on Cholescintigraphy"
 tags = [
     "nuclear medicine",
