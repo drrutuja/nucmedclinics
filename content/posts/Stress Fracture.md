@@ -17,7 +17,7 @@ A significant change in activity level or a repetitive activity may lead to inju
 In nuclear medicine, the term is used for a specific combination of clinical and scintigraphic findings: peripheral, linear tracer uptake is seen on the scintigram, typically involving a large portion of the middle to distal tibia.
 If the process causing injury is allowed to continue to the point of overt fracture, healing predictably takes several months or more, compared with the several weeks required for healing of an early stress reaction.
 
-![Image](/Stress Fracture/1.png)
+![Image](/Stress\ Fracture/1.png)
 
 Therefore prompt diagnosis and appropriate change in activity are critical.
 Bone scan is exquisitely sensitive to detect Stress fracture.
@@ -29,7 +29,7 @@ Bone scan is exquisitely sensitive to detect Stress fracture.
 - Stress injury is not uncommonly multifocal; thus additional sites of involvement may be detected.
 
 
-![Image](/Stress Fracture/2.png)
+![Image](/Stress\ Fracture/2.png)
 
 
 - A phenomenon perhaps related to shin splints is activity induced enthesopathy.
@@ -39,7 +39,7 @@ Bone scan is exquisitely sensitive to detect Stress fracture.
 - Stress injuries can also occur in the spine.
 
 
-![Image](/Stress Fracture/3.png)
+![Image](/Stress\ Fracture/3.png)
 
 
 - Spondylolysis occurs in the lumbar spine in the pars articularis, often seen as a result of repetitive trauma in young athletes.
