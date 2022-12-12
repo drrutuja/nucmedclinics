@@ -16,6 +16,8 @@ tags = [
 - Otorrhea is much less common. 
 - Accurate localization of CSF leaks can be clinically difficult.
 
+![Image](/Cisternographyforleak/1.png)
+
 
 ## Radionuclide studies
 - Radionuclide studies are sensitive and accurate methods of CSF leak detection. 
@@ -23,6 +25,9 @@ tags = [
 
 ## Patient preparation
 No food or drink for 6 hours before lumbar puncture. Nasal pledgets are placed and labeled as to location (usually by ears, nose, and throat [ENT] physician). Pledgets should be weighed before placement. If cerebrospinal fluid (CSF) samples are taken, it should be done before radiotracer injection. The radiotracer is injected intrathecally via aseptic lumbar puncture.
+
+
+![Image](/Cisternographyforleak/2.png)
 
 
 ## Radiopharmaceutical
@@ -56,6 +61,9 @@ capacity divided by serum counts/0.5 Non FDG avid soft tissue thickening is note
 
 
 The site is most likely to be identified during a time when heavy leakage is occurring. Often, the patient position associated with the greatest leakage is reproduced during imaging. Imaging in the appropriate projection is important for identifying the site of leak; lateral and anterior imaging are used for rhinorrhea and posterior imaging for otorrhea. In cases in which no reason is known for low CSF pressure or when a leak around the lumbar region is suspected, additional views should be made of the lumbar region.
+
+
+![Image](/Cisternographyforleak/3.png)
 
 
 - Scintigraphic studies show CSF leaks as an increasing accumulation of activity at the leak site.  
