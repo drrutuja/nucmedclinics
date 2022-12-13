@@ -23,10 +23,6 @@ tags = [
 - Radionuclide studies are sensitive and accurate methods of CSF leak detection. 
 
 
-<script async="async" data-cfasync="false" src="//pl18072816.highperformancecpmgate.com/582d8c4f6fac3a79e2421270782c0073/invoke.js"></script>
-<div id="container-582d8c4f6fac3a79e2421270782c0073"></div>
-
-
 ## Patient preparation
 No food or drink for 6 hours before lumbar puncture. Nasal pledgets are placed and labeled as to location (usually by ears, nose, and throat [ENT] physician). Pledgets should be weighed before placement. If cerebrospinal fluid (CSF) samples are taken, it should be done before radiotracer injection. The radiotracer is injected intrathecally via aseptic lumbar puncture.
 
@@ -74,7 +70,8 @@ The site is most likely to be identified during a time when heavy leakage is occ
 - However, counting the pledgets is more sensitive than imaging for detect- ing CSF leaks. Pledgets are also helpful in determining the origin of the leak (anterior vs. posterior).
 
 
-
+<script async="async" data-cfasync="false" src="//pl18072816.highperformancecpmgate.com/582d8c4f6fac3a79e2421270782c0073/invoke.js"></script>
+<div id="container-582d8c4f6fac3a79e2421270782c0073"></div>
 
 
 
