@@ -118,5 +118,3 @@ Follow me on Twitter [@KoteRutuja](https://twitter.com/KoteRutuja) for more upda
 
 
 
-<script async="async" data-cfasync="false" src="//pl18072816.highperformancecpmgate.com/582d8c4f6fac3a79e2421270782c0073/invoke.js"></script>
-<div id="container-582d8c4f6fac3a79e2421270782c0073"></div>
