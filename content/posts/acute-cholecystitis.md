@@ -81,3 +81,8 @@ tags = [
 - First, it is a very specific scintigraphic finding of acute cholecystitis. It increases interpretive confidence that nonfilling of the gallbladder is caused by acute cholecystitis (true positive) in a patient at increased risk for a false- positive study, for example, a sick hospitalized patient with concurrent serious illness. 
 - Second, the rim sign identifies patients with acute cholecystitis who have more severe disease and are at increased risk for complications (e.g., gangrene and perforation). 
     Even without these complications, patients with the rim sign tend to be sicker and at a later stage of the pathophysiological spectrum of disease, with hemorrhage and necrosis rather than edema and leukocyte infiltration.
+
+
+    <script async="async" data-cfasync="false" src="//pl18072816.highperformancecpmgate.com/582d8c4f6fac3a79e2421270782c0073/invoke.js"></script>
+<div id="container-582d8c4f6fac3a79e2421270782c0073"></div>
+
