@@ -70,8 +70,8 @@ The site is most likely to be identified during a time when heavy leakage is occ
 - However, counting the pledgets is more sensitive than imaging for detect- ing CSF leaks. Pledgets are also helpful in determining the origin of the leak (anterior vs. posterior).
 
 
-<script async="async" data-cfasync="false" src="//pl18072816.highperformancecpmgate.com/582d8c4f6fac3a79e2421270782c0073/invoke.js"></script>
-<div id="container-582d8c4f6fac3a79e2421270782c0073"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8022921694899705"
+     crossorigin="anonymous"></script>
 
 
 

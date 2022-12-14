@@ -21,8 +21,8 @@ Macrophage related disorders include:
 ## Langerhans Cell Histiocytosis:
 
 
-<script async="async" data-cfasync="false" src="//pl18072816.highperformancecpmgate.com/582d8c4f6fac3a79e2421270782c0073/invoke.js"></script>
-<div id="container-582d8c4f6fac3a79e2421270782c0073"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8022921694899705"
+     crossorigin="anonymous"></script>
 
 - LCH is the most common dendritic cell disorder
 - Caused by abnormal monoclonal proliferation and accumulation of pathological Langerhans cells in tissues.
