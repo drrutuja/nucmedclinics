@@ -75,7 +75,6 @@ tags = [
 - Hwang et al, showed that SUVmax from PET/CT is an independent predictor of OS. 
 - Yoo et al, showed that TLG - a volume based metabolic parameter is predictive of PS and superior to both MTV and SUV.
 
-# Follow me on Twitter [@KoteRutuja](https://twitter.com/KoteRutuja) for more updates and resources.
 
 
 
