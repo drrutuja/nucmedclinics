@@ -55,6 +55,8 @@ tags = [
 - A distended bladder can cause an obstructed pattern
 
 
+<script type="text/javascript" src="https://udbaa.com/slider.php?section=General&pub=756285&ga=g&side=right"></script>
+
 ### TYPES 
 - Described by O’Reilly
 
