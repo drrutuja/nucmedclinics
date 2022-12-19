@@ -10,9 +10,9 @@ tags = [
 
 
 ### Phases:
-PERFUSION PHASE
-CORTICAL PHASE
-EXCRETION PHASE
+- PERFUSION PHASE
+- CORTICAL PHASE
+- EXCRETION PHASE
 
 
 ![Image](/renogram/1.png)
@@ -55,13 +55,15 @@ EXCRETION PHASE
 ### TYPES 
 - Described by O’Reilly
 
-## I
+
+
+## TYPE I
 
 ![Image](/renogram/2.png)
 
 - Type I curve: corresponds to a normal drainage before diuresis: Normal study
 
-## II
+## TYPE II
 
 ![Image](/renogram/3.png)
 
@@ -73,14 +75,14 @@ Rule out:
 3. Massively dilated PCS
 4. Bladder effect
 
-## IIIa
+## TYPE IIIa
 
 ![Image](/renogram/4.png)
 
 - characterised by a sharp response to diuretic injection.
 - In this case, dilation represents stasis and not obstruction.
 
-## IIIb
+## TYPE IIIb
 
 ![Image](/renogram/5.png)
 
@@ -88,7 +90,7 @@ Rule out:
 - In this case, there is some response to furosemide although it is not as marked as in type IIIa
 
 
-## IV
+## TYPE IV
 
 ![Image](/renogram/6.png)
 
