@@ -51,14 +51,14 @@ name = "Archive"
 url = "/archive/"
 weight = 10
 [[menu.main]]
-identifier = "about"
-name = "About"
-url = "/about/"
-weight = 50
-[[menu.main]]
 identifier = "privacy"
 name = "Privacy Policy"
 url = "/privacy/"
+weight = 50
+[[menu.main]]
+identifier = "about"
+name = "About"
+url = "/about/"
 weight = 60
 
 
