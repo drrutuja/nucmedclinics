@@ -55,6 +55,11 @@ identifier = "about"
 name = "About"
 url = "/about/"
 weight = 50
+[[menu.main]]
+identifier = "privacy"
+name = "Privacy Polic"
+url = "/privacy-policy/"
+weight = 100
 
 
 [params]
