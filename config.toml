@@ -56,7 +56,7 @@ name = "About"
 url = "/about/"
 weight = 50
 [[menu.main]]
-identifier = "privacy"
+identifier = "privacy-policy"
 name = "Privacy Policy"
 url = "/privacy-policy/"
 weight = 100
