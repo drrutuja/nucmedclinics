@@ -58,7 +58,7 @@ weight = 50
 [[menu.main]]
 identifier = "privacy"
 name = "Privacy Policy"
-url = "/privacy/"
+url = "/about/privacy/"
 weight = 60
 
 
