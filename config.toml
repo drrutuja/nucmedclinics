@@ -59,7 +59,7 @@ weight = 50
 identifier = "privacy"
 name = "Privacy Policy"
 url = "/privacy/"
-weight = 100
+weight = 60
 
 
 [params]
