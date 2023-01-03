@@ -9,8 +9,8 @@ tags = [
 +++
 
 
-<script type="text/javascript" src="https://udbaa.com/bnr.php?section=General&pub=756285&format=468x60&ga=g"></script>
-<noscript><a href="https://yllix.com/publishers/756285" target="_blank"><img src="//ylx-aff.advertica-cdn.com/pub/468x60.png" style="border:none;margin:0;padding:0;vertical-align:baseline;" alt="ylliX - Online Advertising Network" /></a></noscript>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8022921694899705"
+     crossorigin="anonymous"></script>
 
 
 - Renal cortical scintigraphy image functional renal tissue and provide useful morphologic information
@@ -67,8 +67,6 @@ tags = [
 - Defect persisting after 6 months should be considered chronic scar
 - Tracer uptake is seen in column of Bertin but not in a mass
 
-
-<script type="text/javascript" src="https://udbaa.com/slider.php?section=General&pub=756285&ga=g&side=right"></script>
 
 
 ## Source of error

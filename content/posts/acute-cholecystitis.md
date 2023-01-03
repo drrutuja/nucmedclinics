@@ -83,5 +83,3 @@ tags = [
     Even without these complications, patients with the rim sign tend to be sicker and at a later stage of the pathophysiological spectrum of disease, with hemorrhage and necrosis rather than edema and leukocyte infiltration.
 
 
-   <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8022921694899705"
-     crossorigin="anonymous"></script>

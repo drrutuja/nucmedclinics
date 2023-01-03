@@ -8,6 +8,9 @@ tags = [
 ]
 +++
 
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8022921694899705"
+     crossorigin="anonymous"></script>
+
 - Paget disease is often included in the metabolic bone disease category, although mechanisms causing this disorder are not entirely understood, with genetic and environmental causes proposed. 
 - A chronic disease of the elderly.
 
