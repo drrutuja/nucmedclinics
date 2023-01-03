@@ -73,7 +73,7 @@ The disease has three phases:
 - The pelvis is the most commonly involved site, followed by the spine, skull, femur, scapula, tibia, and humerus. 
 
 
-<script type="text/javascript" src="https://udbaa.com/slider.php?section=General&pub=756285&ga=g&side=right"></script>
+<div id="amzn-assoc-ad-32f30dff-2f76-4484-a753-2ed5648f7883"></div><script async src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=32f30dff-2f76-4484-a753-2ed5648f7883"></script>
 
 
 ## Osteoporosis circumscripta
