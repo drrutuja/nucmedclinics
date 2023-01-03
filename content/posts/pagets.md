@@ -9,8 +9,24 @@ tags = [
 +++
 
 
-<script type="text/javascript" src="https://udbaa.com/bnr.php?section=General&pub=756285&format=468x60&ga=g"></script>
-<noscript><a href="https://yllix.com/publishers/756285" target="_blank"><img src="//ylx-aff.advertica-cdn.com/pub/468x60.png" style="border:none;margin:0;padding:0;vertical-align:baseline;" alt="ylliX - Online Advertising Network" /></a></noscript>
+<div class="alignleft">
+     <script type="text/javascript">
+       	amzn_assoc_ad_type = "banner";
+	amzn_assoc_marketplace = "amazon";
+	amzn_assoc_region = "US";
+	amzn_assoc_placement = "assoc_banner_placement_default";
+	amzn_assoc_campaigns = "primediscounted";
+	amzn_assoc_banner_type = "category";
+	amzn_assoc_p = "13";
+	amzn_assoc_isresponsive = "false";
+	amzn_assoc_banner_id = "18VJ9SWPD89M1NN9N402";
+	amzn_assoc_width = "468";
+	amzn_assoc_height = "60";
+	amzn_assoc_tracking_id = "rutuja02-20";
+	amzn_assoc_linkid = "6290480f9f755ba0e6135dfccda4cb51";
+     </script>
+     <script src="//z-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&Operation=GetScript&ID=OneJS&WS=1"></script>
+    </div>
 
 
 
