@@ -9,25 +9,6 @@ tags = [
 +++
 
 
-<div class="alignleft">
-     <script type="text/javascript">
-       	amzn_assoc_ad_type = "banner";
-	amzn_assoc_marketplace = "amazon";
-	amzn_assoc_region = "US";
-	amzn_assoc_placement = "assoc_banner_placement_default";
-	amzn_assoc_campaigns = "primediscounted";
-	amzn_assoc_banner_type = "category";
-	amzn_assoc_p = "13";
-	amzn_assoc_isresponsive = "false";
-	amzn_assoc_banner_id = "18VJ9SWPD89M1NN9N402";
-	amzn_assoc_width = "468";
-	amzn_assoc_height = "60";
-	amzn_assoc_tracking_id = "rutuja02-20";
-	amzn_assoc_linkid = "6290480f9f755ba0e6135dfccda4cb51";
-     </script>
-     <script src="//z-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&Operation=GetScript&ID=OneJS&WS=1"></script>
-    </div>
-
 <meta name="monetag" content="39561c7595358dc7d430cf2b050f3fe8">
 
 - Paget disease is often included in the metabolic bone disease category, although mechanisms causing this disorder are not entirely understood, with genetic and environmental causes proposed. 
