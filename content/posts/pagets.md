@@ -78,6 +78,9 @@ The disease has three phases:
 
 <div id="amzn-assoc-ad-0bdb9141-83af-4132-8d35-c140ed935aa6"></div><script async src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=0bdb9141-83af-4132-8d35-c140ed935aa6"></script>
 
+
+<div id="amzn-assoc-ad-6a68c000-b9db-4c14-beb3-f0c7236b8e7d"></div><script async src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=6a68c000-b9db-4c14-beb3-f0c7236b8e7d"></script>
+
 ## Osteoporosis circumscripta
 
 ![Image](/Pagets/2.png)
