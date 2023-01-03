@@ -8,9 +8,6 @@ tags = [
 ]
 +++
 
-
-<meta name="monetag" content="39561c7595358dc7d430cf2b050f3fe8">
-
 - Paget disease is often included in the metabolic bone disease category, although mechanisms causing this disorder are not entirely understood, with genetic and environmental causes proposed. 
 - A chronic disease of the elderly.
 
@@ -53,14 +50,6 @@ The disease has three phases:
 - When the tibia is involved, bowing is often seen, and in the spine, fractures can happen. 
 - The pelvis is the most commonly involved site, followed by the spine, skull, femur, scapula, tibia, and humerus. 
 
-
-<div id="amzn-assoc-ad-32f30dff-2f76-4484-a753-2ed5648f7883"></div><script async src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=32f30dff-2f76-4484-a753-2ed5648f7883"></script>
-
-
-<div id="amzn-assoc-ad-0bdb9141-83af-4132-8d35-c140ed935aa6"></div><script async src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=0bdb9141-83af-4132-8d35-c140ed935aa6"></script>
-
-
-<div id="amzn-assoc-ad-6a68c000-b9db-4c14-beb3-f0c7236b8e7d"></div><script async src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=6a68c000-b9db-4c14-beb3-f0c7236b8e7d"></script>
 
 ## Osteoporosis circumscripta
 
