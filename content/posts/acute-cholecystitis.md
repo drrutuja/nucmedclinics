@@ -15,6 +15,9 @@ tags = [
 - Series of sequential histopathological inflammatory changes occurs—first, venous and lymphatic obstruction, followed by edema of the gallbladder mucosa, then white blood cell infiltration, and, ultimately, hemorrhage, ulceration, necrosis, and if left untreated, gangrene, abscess, and perforation.
 
 
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8022921694899705"
+     crossorigin="anonymous"></script>
+
 ## USG:
 
 - Most patients with acute cholecystitis have gallstones noted on sonography; however, the presence of stones is not specific for acute cholecystitis.

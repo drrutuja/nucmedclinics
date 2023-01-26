@@ -34,6 +34,11 @@ No food or drink for 6 hours before lumbar puncture. Nasal pledgets are placed a
 In-111 diethylenetriaminepentaacetic acid (DTPA; pyrogen-free for intrathecal use) 500 μCi (19 MBq) in 5 mL dextrose 10% in water: intrathecal injection with patient adjacent to imaging table using aseptic technique. After injection, place patient in Trendelenburg position to pool the radiotracer in the basal regions until imaging begins.
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8022921694899705"
+     crossorigin="anonymous"></script>
+
+     
 ## Instrumentation
 Gamma camera: Large field of view; medium-energy collimator
 Computer setup: 256 × 256 matrix, static images 50,000 to 100,000 or 10 min/image; zoom as needed (e.g., in children)

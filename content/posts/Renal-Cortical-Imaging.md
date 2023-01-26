@@ -8,7 +8,6 @@ tags = [
 ]
 +++
 
-
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8022921694899705"
      crossorigin="anonymous"></script>
 

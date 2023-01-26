@@ -23,6 +23,9 @@ Therefore prompt diagnosis and appropriate change in activity are critical.
 Bone scan is exquisitely sensitive to detect Stress fracture.
 
 
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8022921694899705"
+     crossorigin="anonymous"></script>
+
 ## IMAGE FINDINGS
 
 - Skeletal scintigraphy reveals characteristic intense uptake at the fracture site ranging from the earlier oval or fusiform uptake to activity traversing the bone in outright fracture Stress fracture can become positive on all three phases of the bone scan and findings are often seen before  radiographs reveal the cortical thickening in injury and fracture lines as disease progresses.
