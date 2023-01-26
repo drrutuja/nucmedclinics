@@ -9,6 +9,17 @@ tags = [
 +++
 
 
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-WTCET1CHE1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-WTCET1CHE1');
+</script>
+
+
 - Trauma and surgery (transsphenoidal and nasal) are the most common causes of CSF rhinorrhea. 
 - Nontraumatic causes include hydrocephalus and congenital defects.
 - CSF rhinorrhea may occur at any site, from the frontal sinuses to the temporal bone. 
@@ -38,7 +49,7 @@ In-111 diethylenetriaminepentaacetic acid (DTPA; pyrogen-free for intrathecal us
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8022921694899705"
      crossorigin="anonymous"></script>
 
-     
+
 ## Instrumentation
 Gamma camera: Large field of view; medium-energy collimator
 Computer setup: 256 × 256 matrix, static images 50,000 to 100,000 or 10 min/image; zoom as needed (e.g., in children)

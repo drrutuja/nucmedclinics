@@ -9,6 +9,18 @@ tags = [
 +++
 
 
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-WTCET1CHE1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-WTCET1CHE1');
+</script>
+
+
+
 - The most frequent indication for cholescintigraphy is to confirm or exclude the diagnosis of acute cholecystitis. 
 - Patients present with colicky right upper quadrant abdominal pain, nausea, and vomiting. 
 - Physical examination often detects right upper quadrant tenderness. Laboratory studies show leukocytosis.

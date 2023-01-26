@@ -9,6 +9,17 @@ tags = [
 +++
 
 
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-WTCET1CHE1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-WTCET1CHE1');
+</script>
+
+
 A significant change in activity level or a repetitive activity may lead to injury to the bone. This may be seen in “shin splints,” a term applied generically to describe stress-related leg soreness along the medial or posteromedial aspect of the tibia.
 
 

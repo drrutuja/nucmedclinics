@@ -9,6 +9,17 @@ tags = [
 +++
 
 
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-WTCET1CHE1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-WTCET1CHE1');
+</script>
+
+
 Histiocytic disorders are a group of diseases derived from macrophages and dendritic cells, which are important antigen presenting cells and mediators of host immune responses
 Dendritic cell disorders consists of:
 - Langerhans cell histiocytosis (LCH) – Incidence 4 to 4.5 per million
