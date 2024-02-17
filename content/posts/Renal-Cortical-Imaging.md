@@ -89,3 +89,6 @@ tags = [
 - Exaggerated contrast between intervening parenchyma and renal poles suggest erroneously bipolar hypoactivity.
 - Air introduced into the reaction vial can degrade the DMSA complex resulting in decreased renal uptake and increased hepatic and background activity.
 
+
+
+Follow me on Twitter [@KoteRutuja](https://twitter.com/KoteRutuja) for more updates and resources.
