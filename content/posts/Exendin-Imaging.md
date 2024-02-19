@@ -10,7 +10,7 @@ tags = [
 
 
 ## Introduction
-- Insulinoma is a rare neuroendocrine tumor arising from pancreatic beta cells with an incidnece of 0.4 per 1,00,000 people per year. It is the most common cause of endogenous hyperinsulinemic hypoglycemia in adult patients with out diabetes. 
+- Insulinoma is a rare neuroendocrine tumor arising from pancreatic beta cells with an incidence of 0.4 per 1,00,000 people per year. It is the most common cause of endogenous hyperinsulinemic hypoglycemia in adult patients with out diabetes. 
 
 Clinical Features:
 1. Fasting Hypoglycemia
