@@ -11,7 +11,7 @@ tags = [
 
 # Uses and Pitfall
 
-- In addition to pre-op localization of insulinoma, GLP-1 rexeptor imaging also might be used for dynamic evaluation of response to non surgical treatment of insulinoma. 
+- In addition to pre-op localization of insulinoma, GLP-1 receptor imaging also might be used for dynamic evaluation of response to non surgical treatment of insulinoma. 
 
 
 ![Image](/exendin/1.png)
