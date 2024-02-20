@@ -13,6 +13,9 @@ tags = [
 
 - In addition to pre-op localization of insulinoma, GLP-1 rexeptor imaging also might be used for dynamic evaluation of response to non surgical treatment of insulinoma. 
 
+
+![Image](/exendin/1.png)
+
 - It is used in MEN 1 patients, guide surgerical procedures. In MEN 1 patients, aggressive resection of pancreatic neuro-endocrine tumors was previosuly proposed, but it was associated with significant mortality. Recent studies suggests non fucntioning pancreatic neuro-endocrine tumors rarely develop metastases. There is no difference in survival with watchful waiting. 
 
 - Malignant insulinomas are <10% of insulinomas. They lack GLP-1 receptors. They express SSTR-2 receptors. 
