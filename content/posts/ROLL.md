@@ -23,29 +23,29 @@ tags = [
 
 - For the localization of opacities and microcalcification observed by mammography device equipped with a computerised stereotactice system is used for guiding the injection once teh 3D coordinates of the lesion have been calculated. 
 
-![Image](/Roll/1.png)
+
 - Craniocaudal projections are acquiredd for lesions located in the superior and inferior breast quadrants, and external and internal lateral projections are obtained for lesions in the lateral and medial quadrants.
-![Image](/Roll/1.png)
+
 - A 22 guage needle in the stereotactic frame is inserted in the lesion with position of the needle tip corresponding to the calculated coordinates.
-![Image](/Roll/1.png)
+
 - New mammogram is obtained to verify the location of the tip of the needle. 
-![Image](/Roll/1.png)
+
 - Injection of the 99mTc MAA is given followed by immediate administration of 0.2ml of radioopaque contrast medium.
-![Image](/Roll/1.png)
+
 - Remove Needle. 
-![Image](/Roll/1.png)
+
 - Take another image to verify that the contrast medium has been properly located in the lesion. 
 
 ### Using Ultrasound Guidance:
 
 - When the occult lesion is displated by ultrasound, the radiotracer is injected under ultrasonographic guidance.
-![Image](/Roll/1.png)
+
 - Examination id done using a liner probe at a frequency of 10 to 13 or 7.5 to 10MHz, depending on breast size. 
-![Image](/Roll/1.png)
+
 - Then another probe (7.5 to 10MHz) is cinnected to a needle biopsy device.
-![Image](/Roll/1.png)
+
 - The needle is introduced in the device and manually inserted in the center of the breast lesion. 
-![Image](/Roll/1.png)
+
 - The radiotracer is then injected followed by 0.2ml of saline. 
 
 ### Post Injection Procedure
