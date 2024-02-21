@@ -23,7 +23,6 @@ tags = [
 
 - For the localization of opacities and microcalcification observed by mammography device equipped with a computerised stereotactice system is used for guiding the injection once teh 3D coordinates of the lesion have been calculated. 
 
-
 - Craniocaudal projections are acquiredd for lesions located in the superior and inferior breast quadrants, and external and internal lateral projections are obtained for lesions in the lateral and medial quadrants.
 
 - A 22 guage needle in the stereotactic frame is inserted in the lesion with position of the needle tip corresponding to the calculated coordinates.
