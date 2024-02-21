@@ -11,10 +11,10 @@ tags = [
 
 # Introduction
 
-- The radioguided ocult lesion localization (ROLL) technique has been used in breast conservative surgery by associating lumpectomy and sentinel lymph node biopsy. 
-- The combination of two techniques is commonly known as SNOLL - Sentinel lymph node and ocult lesion localization.
+- The radioguided occult lesion localization (ROLL) technique has been used in breast conservative surgery by associating lumpectomy and sentinel lymph node biopsy. 
+- The combination of two techniques is commonly known as SNOLL - Sentinel lymph node and occult lesion localization.
 
-## Radioguided localization of ocult breast lesion
+## Radioguided localization of occult breast lesion
 
 - Extensive use of mammography has increased the identification of DCIS and LCIS. 
 - Such lesions must be well located preoperatively, completely removed avoiding unnecessary traumas in the surrounding tissues and carefully centered in the specimen excised. 
