@@ -1,12 +1,14 @@
 +++
 author = "Dr. Rutuja Kote"
-title = "FLT Imaging" ![Image](/FLT/2.png)
+title = "FLT Imaging" 
 date = "2024-02-22"
 description = "FLT Imaging"
 tags = [
     "Novel Tracers",
 ]
 +++
+
+![Image](/FLT/2.png)
 
 
 # Introduction
