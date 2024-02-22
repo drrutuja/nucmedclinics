@@ -17,7 +17,8 @@ tags = [
 - Therefore in-vivo assessment of proliferation seems a promising tool for imaging cancer and assessing response to treatment. 
 
 
-- Proloiferation imaging helps in 1. Differentiation between benign and malignant.
+- Proloiferation imaging helps in 
+1. Differentiation between benign and malignant.
 2. Non invasive grading. 
 
 
@@ -81,4 +82,5 @@ tags = [
 Follow me on Twitter [@KoteRutuja](https://twitter.com/KoteRutuja) for more updates and resources.
 
 *References*
+
 *Herrmann K, Buck AK. Proliferation imaging with ¹⁸F-fluorothymidine PET/computed tomography: physiologic uptake, variants, and pitfalls. PET Clin. 2014 Jul;9(3):331-8. doi: 10.1016/j.cpet.2014.03.005. Epub 2014 Apr 26. PMID: 25030396.*
