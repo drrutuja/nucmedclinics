@@ -8,9 +8,6 @@ tags = [
 ]
 +++
 
-![Image](/FLT/2.png)
-
-
 # Introduction
 
 - Retention of 18F FDG in the tumor reflects cellular growth and proliferation only in the past.
